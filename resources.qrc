@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>grey-background.jpg</file>
+        <file>backgorund.png</file>
+        <file>bus.png</file>
+        <file>car1.png</file>
+        <file>car2.png</file>
+        <file>car3.png</file>
+        <file>lorry.png</file>
+        <file>motorbike.png</file>
+    </qresource>
+</RCC>
