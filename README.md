@@ -1,0 +1,1 @@
+A undergraduate C++ coding project made in Qt. A simulation of a traffic light intersection, where vehicles stop at traffic lights with the traffic light sequence customisable through user interaction. 
